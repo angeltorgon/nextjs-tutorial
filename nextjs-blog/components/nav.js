@@ -15,7 +15,7 @@ export default function Nav() {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-            <Link href="/"><a className="navbar-brand" href="#">AT</a></Link>
+            <Link href="/"><a className="navbar-brand" href="#">TECHNOOBYS</a></Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon" onClick={handleToggle}></span>
             </button>
